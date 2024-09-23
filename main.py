@@ -1,9 +1,6 @@
-from py_srt_trans import PySrtTrans
+from py_srt_trans_ui import UiPySrtTrans
 
-def main():
-    pysrt = PySrtTrans()
-    pysrt.translates_srt_files()
-    
 
 if __name__ == "__main__":
-    main()
+    app = UiPySrtTrans()
+    app.mainloop()
