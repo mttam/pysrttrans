@@ -1,7 +1,7 @@
 # PySrtTrans
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub last commit](https://img.shields.io/github/last-commit/mttam/Sweat-Today)](https://github.com/mttam/Sweat-Today/commits/main)
-[![GitHub issues](https://img.shields.io/github/issues/mttam/Sweat-Today)](https://github.com/mttam/Sweat-Today/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/mttam/pysrttrans)](https://github.com/mttam/pysrttrans/commits/main)
+[![GitHub issues](https://img.shields.io/github/issues/mttam/pysrttrans)](https://github.com/mttam/pysrttrans/issues)
 
 ## Project Description
 
