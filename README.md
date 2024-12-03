@@ -5,7 +5,9 @@
 
 ## Project Description
 
-PySrtTrans is a Python tool for automatically translating SRT subtitle files.
+PySrtTrans is a Python tool for automatically translating SRT subtitle files.This tool leverages the power of Google Gemini API for advanced language translation capabilities, providing high-quality translations with minimal manual intervention.
+
+## Main Features
 
 ## Main Features
 
